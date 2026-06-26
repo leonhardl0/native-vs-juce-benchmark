@@ -48,8 +48,3 @@ A análise estática via SonarQube quantificou o *trade-off* do reuso:
 3. Abra o seu hospedeiro, crie 50 pistas de áudio idênticas e instancie as variantes para aferir o comportamento do medidor de performance local.
 
 ---
-
-## ✒️ Autor
-
-**Leonardo Rodrigues Viana**
-Bacharel em Engenharia de Software pela UNDB. Unindo o rigor da engenharia de software à vivência prática como músico profissional e compositor no mercado brasileiro, este projeto busca promover o debate técnico sobre as ferramentas que sustentam a infraestrutura da produção fonográfica moderna.
