@@ -1,15 +1,3 @@
-Aqui está o seu arquivo README.md totalmente atualizado.
-
-Ele foi ajustado para refletir as três principais mudanças que fizemos no seu TCC nas últimas interações:
-
-1. **A inclusão da nota de autoria do algoritmo da Steinberg** (protegendo sua integridade acadêmica);
-2. **A atualização dos resultados** (refletindo as médias dos 10 testes com ASIO4ALL e a remoção da "Carga FX");
-3. **A adição das instruções de compilação do código-fonte** (exigência direta do seu orientador no "Ponto de gate nº 1").
-
-Basta copiar e colar no seu repositório:
-
----
-
 # 🎛️ Engenharia de Reuso em Plugins de Áudio: Nativo vs. JUCE
 
 **Um estudo de caso prático sobre os riscos e limites da abstração arquitetural no desenvolvimento de plugins para DAWs.**
